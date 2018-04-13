@@ -1,1 +1,1 @@
-#CQRS - DDD/Events Sourcing <br/>
+#CQ(R)S - DDD/Events Sourcing <br/>
